@@ -1,0 +1,61 @@
+
+  .code {
+    width: 270px;
+    clear: both;
+    height: 270px;
+    background: white;
+    border-radius: 2px;
+    margin:50px;
+    margin-right: 20px;
+    padding: 10px; }
+    .code pre, .code code {
+      height: 100%;
+      margin: 0; }
+    .code code {
+      padding: 20px 0 0 20p; }
+    .code--small code {
+      padding-top: 75px; }
+    .code--left {
+      float: left; }
+  
+
+
+  body {
+    background-color: #538a95;
+  }
+  .titulo{
+    height: 500px; 
+    width: 850px;
+    margin-left: 300px; 
+    border: 5px solid white;
+  }
+  
+    .btn-primary{
+      background-color: #e4491c;
+    }
+  .img-caixa {
+    width: 270px;
+    height: 270px;
+  }
+
+  .text{
+    margin: 50px;
+  }
+  .lados {
+    display: flex;
+    margin-top: 35px;
+  }
+  .blabla {
+    text-align: justify; 
+    color: white;
+    }
+    
+  
+  .h{
+    font-size: 30px;
+    align-items: center;
+    text-align: start;
+    font-style: italic;
+    color: white;  
+  }
+

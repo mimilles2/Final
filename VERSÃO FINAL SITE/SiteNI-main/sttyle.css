@@ -1,0 +1,39 @@
+button{
+    width: 200px;
+    margin-top: 30px;
+}
+
+
+img{
+    width: 500px;
+    height: 300px;
+
+
+}
+
+
+.corpo .col{
+    font-size: 18px;
+}
+
+.imagem{
+    width: 500px;
+    height: 400px;
+}
+
+.textos {
+    color: white
+}
+
+H4 {
+    color: white;
+    padding-right: 10px;
+}
+
+.titulos{
+    font-size: 30px;
+    align-items: center;
+    text-align: start;
+    font-style: italic;
+    margin-bottom: 50px;
+}

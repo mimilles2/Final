@@ -1,0 +1,65 @@
+
+  .code {
+    width: 640px;
+    clear: both;
+    height: 360px;
+    background: white;
+    border-radius: 2px;
+    margin: 20px;
+    margin-right: 20px;
+    padding: 10px; }
+    .code pre, .code code {
+      height: 100%;
+      margin: 0; }
+    .code code {
+      padding: 20px 0 0 20p; }
+    .code--small code {
+      padding-top: 75px; }
+    .code--left {
+      float: left; }
+  
+
+
+  body {
+    background-color: #538a95;
+  }
+  .titulo{
+    height: 500px; 
+    width: 850px;
+    margin-left: 300px; 
+    border: 5px solid white;
+
+  }
+  .img-caixa {
+    width: 640px;
+    height: 360px;
+
+  }
+
+  .lados {
+    display: flex;
+    margin-top: 35px;
+  
+  }
+  .blabla {
+    text-align: justify; 
+    color: white;
+    }
+  #tres{ 
+    margin-right: 300px;
+    }
+  
+  .h{
+    font-size: 30px;
+    align-items: center;
+    text-align: start;
+    font-style: italic;
+    color: white;
+  
+  }
+
+
+  h6{
+    color: white;
+  }
+  
